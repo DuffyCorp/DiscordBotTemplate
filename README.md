@@ -1,2 +1,2 @@
-# DiscordDuffBot
-Discord Bot for Bosnia
+# Discord Bot
+Discord Bot template for general use
